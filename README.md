@@ -73,7 +73,7 @@ My focus is not just on UI, but on **how frontend translates business logic, dom
 * High-load frontend UI
 * UX for real-world retail constraints
 
-➡ Repository: `topshina-frontend` *(placeholder)*
+➡ Repository: upon request
 
 ---
 
@@ -85,7 +85,7 @@ My focus is not just on UI, but on **how frontend translates business logic, dom
 * Custom buyer journey
 * Product presentation & storytelling
 
-➡ Repository: `rayaray-storefront` *(placeholder)*
+➡ Repository: upon request
 
 ---
 
@@ -97,7 +97,7 @@ My focus is not just on UI, but on **how frontend translates business logic, dom
 * Modular UI system
 * Scalable layout for business growth
 
-➡ Repository: `mankor-website` *(placeholder)*
+➡ Repository: upon request
 
 ---
 
